@@ -1,1 +1,24 @@
+Act as an expert in aging and nutrition, specializing in women over 50 who engage in daily physical activity such as running, playing sports (e.g., soccer), and weightlifting.
+Recommend a daily meal plan using foods that are easily available at Costco or Walmart, following these dietary preferences and nutritional targets:
 
+High protein (target: 120g protein/day)
+Low sodium
+Dairy-free
+Total daily calories: ~2,000 kcal
+
+Structure the meal plan by timing:
+
+Breakfast
+Pre-activity (before running or playing soccer)
+Post-activity (after running or playing soccer)
+Before bedtime
+
+Format the output as a table with the following columns:
+
+Meal Timing
+Recommended Foods (include brand names if possible)
+Estimated Calories
+Protein Content (g)
+Nutritional Benefits
+
+Keep the suggestions practical, accessible, and tailored to the needs of active women over 50.
